@@ -1,0 +1,9 @@
+{
+  "name": "pm-toolkit",
+  "displayName": "PM 툴킷",
+  "version": "1.0.0",
+  "description": "아이디어 한 줄을 PRD 초안으로, 리뷰·인터뷰를 주제별 정리로 만드는 PM 스킬 묶음",
+  "author": {
+    "name": "dean257"
+  }
+}
