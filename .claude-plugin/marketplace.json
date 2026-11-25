@@ -1,0 +1,14 @@
+{
+  "name": "dean257-pm-plugins",
+  "description": "PM 업무를 돕는 Claude 플러그인 모음",
+  "owner": {
+    "name": "dean257"
+  },
+  "plugins": [
+    {
+      "name": "pm-toolkit",
+      "source": "./plugins/pm-toolkit",
+      "description": "아이디어 한 줄을 PRD 초안으로, 리뷰·인터뷰를 주제별 정리로 만드는 PM 스킬 묶음"
+    }
+  ]
+}
